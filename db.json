@@ -1,0 +1,123 @@
+{
+  "appointments": [
+    {
+      "title": "Knee bone dislocate",
+      "date": "2023-03-11",
+      "time": "10:04",
+      "patient": "Peter",
+      "doctor": "Dr. Peter",
+      "description": "Few years back I met with an accident",
+      "id": 7
+    },
+    {
+      "title": "Headache",
+      "date": "2023-03-11",
+      "time": "11:50",
+      "patient": "Griffin",
+      "doctor": "Dr. Griffin",
+      "reason": "Due to alcohol overdose.",
+      "description": "Last night I mixed wine with JackDaniels.",
+      "id": 8
+    },
+    {
+      "title": "test1",
+      "date": "2023-03-11",
+      "time": "10:10",
+      "patient": "Louis",
+      "doctor": "Dr. Louis",
+      "reason": "test1",
+      "description": "test1",
+      "id": 11
+    },
+    {
+      "title": "test2",
+      "date": "2023-03-12",
+      "time": "14:22",
+      "patient": "Quagmaire",
+      "doctor": "Dr. Quagmaire",
+      "description": "test2",
+      "id": 12
+    },
+    {
+      "title": "Welcome bro",
+      "date": "2023-03-14",
+      "time": "11:11",
+      "patient": "Louis",
+      "doctor": "Dr. Louis",
+      "description": "Abbu bro ku ore gujjall....",
+      "id": 13
+    },
+    {
+      "title": "as",
+      "date": "2023-03-22",
+      "time": "14:22",
+      "patient": "Griffin",
+      "doctor": "Dr. Griffin",
+      "description": "22",
+      "id": 14
+    },
+    {
+      "title": "santhosh ku piles",
+      "date": "2023-03-16",
+      "time": "10:10",
+      "patient": "Griffin",
+      "doctor": "Dr. Louis",
+      "description": "piles",
+      "id": 15
+    }
+  ],
+  "patients": [
+    {
+      "patientName": "Peter",
+      "doctorName": "Dr. Peter",
+      "id": "1"
+    },
+    {
+      "patientName": "Griffin",
+      "doctorName": "Dr. Griffin",
+      "id": "2"
+    },
+    {
+      "patientName": "Louis",
+      "doctorName": "Dr. Louis",
+      "id": "3"
+    },
+    {
+      "patientName": "Stewe",
+      "doctorName": "Dr. Stewe",
+      "id": "4"
+    },
+    {
+      "patientName": "Quagmaire",
+      "doctorName": "Dr. Quagmaire",
+      "id": "5"
+    }
+  ],
+  "doctors": [
+    {
+      "patientName": "Peter",
+      "doctorName": "Dr. Peter",
+      "id": "1"
+    },
+    {
+      "patientName": "Griffin",
+      "doctorName": "Dr. Griffin",
+      "id": "2"
+    },
+    {
+      "patientName": "Louis",
+      "doctorName": "Dr. Louis",
+      "id": "3"
+    },
+    {
+      "patientName": "Stewe",
+      "doctorName": "Dr. Stewe",
+      "id": "4"
+    },
+    {
+      "patientName": "Quagmaire",
+      "doctorName": "Dr. Quagmaire",
+      "id": "5"
+    }
+  ]
+}
